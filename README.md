@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是程序员Marspal。
+
+### 学习规划 🌱
+
+#### 算法
+
+
+#### FE组件库
+
+
+#### js
